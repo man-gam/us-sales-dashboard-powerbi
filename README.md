@@ -1,7 +1,7 @@
 # us-sales-dashboard-powerbi
 A Power BI dashboard to analyze sales performance across US regions, products, and segments.
 
-#📊 Key Features Implemented:
+📊 **Key Features Implemented**:
 
 📍 Bookmark-based map toggle between a Global Map and Filled Map – this was one of the biggest challenges, solved using bookmarks for a smooth user experience.
 
