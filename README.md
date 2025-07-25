@@ -21,11 +21,11 @@ A Power BI dashboard to analyze sales performance across US regions, products, a
 
 🌐 Solved data type inconsistencies across countries using locale-specific formatting (especially for date fields).
 
-🛠️ Tools & Techniques Used:
+🛠️ **Tools & Techniques Used**:
 
  Power BI | Bookmarks | DAX | Power Query | Parameters | Drill Down | Custom Visuals | Data Modeling | Dashboard Design
 
-🚀 Impact
+🚀 **Impact**
 
 This project reflects my ability to:
 
@@ -33,17 +33,17 @@ This project reflects my ability to:
  Create user-friendly dashboards
  Optimize report performance with calculated columns and measures
 
-🔍 Challenges Tackled:
+🔍 **Challenges Tackled**:
 
 Implementing a map view toggle using bookmarks
 Handling multi-country date formats via locale settings
 Enabling dynamic sales level comparison with parameters
 
-📁 File Included
+📁 **File Included**
 
 - `Sales US HQ.pbix` – Power BI file containing the complete dashboard
 
-🙋 About Me
+🙋 **About Me**
 
 I'm a Data Analyst with a passion for turning data into actionable insights through compelling visual storytelling. Feel free to connect:
 
