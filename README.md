@@ -1,4 +1,4 @@
-# us-sales-dashboard-powerbi
+# US-Sales-Dashboard-PowerBi
 A Power BI dashboard to analyze sales performance across US regions, products, and segments.
 
 📊 **Key Features Implemented**:
